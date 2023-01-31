@@ -49,7 +49,7 @@ urls = ["https://www.ebay.co.uk/sch/i.html?_from=R40&_nkw=rx6400&_sacat=0&LH_Tit
 mydb = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="ToastedBuns69",
+    password="PASSWORD",
     database="pc_hardware_web_scraping"
 )
 
