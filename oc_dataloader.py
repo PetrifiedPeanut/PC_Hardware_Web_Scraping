@@ -39,7 +39,7 @@ urls = ['https://www.overclockers.co.uk/pc-components/motherboards/amd-motherboa
 mydb = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="ToastedBuns69",
+    password="PASSWORD",
     database="pc_hardware_web_scraping"
 )
 
