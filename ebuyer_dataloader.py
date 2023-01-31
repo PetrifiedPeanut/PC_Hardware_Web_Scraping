@@ -69,7 +69,7 @@ urls = ['https://www.ebuyer.com/store/Components/cat/Memory---PC',
 mydb = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="ToastedBuns69",
+    password="PASSWORD",
     database="pc_hardware_web_scraping"
 )
 
